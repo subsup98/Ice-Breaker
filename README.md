@@ -16,4 +16,4 @@ Link : https://www.udemy.com/course/langchain-korean/?couponCode=KEEPLEARNING
 ### 1) gitclone 후 .env 환경 생성
 ### 2) OPENAI_API_KEY, SCRAPIN_API_KEY, LANGCHAIN_API_KEY, PROXYCURL_API_KEY 입력
 ### 3) LANGCHAIN_TRACING_V2=true, LANGCHAIN_PROJCET=사용자 지정 프로젝트 이름 입력
-### 4) ice_breaker.py 실행
+### 4) app.py 실행
