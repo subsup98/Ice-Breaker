@@ -30,7 +30,7 @@ def ice_break_with(name: str) -> Tuple[Summary, str]:
     chain         = summary_prompt_template | llm | summary_parser
     res:Summary   = chain.invoke(input={"information": linkedin_data})
 
-    return res, linkedin_data.get("profile_pic_url")
+    return res, linkedin_data.get("photoUrl")
 
 if __name__ == "__main__":
     load_dotenv()
