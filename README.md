@@ -10,7 +10,7 @@ Link : https://www.udemy.com/course/langchain-korean/?couponCode=KEEPLEARNING
 입력한 이름을 온라인으로 검색하여 링크드인 프로필 정보를 통해 대화의 물꼬를 틀 수 있는 프로그램 개발
 
 ### 
-<img width="1264" height="933" alt="image" src="https://github.com/user-attachments/assets/fc478690-53a7-4a14-9aa6-a04ca4b52a76" />
+<img width="1454" height="1227" alt="image" src="https://github.com/user-attachments/assets/6418c881-330e-44d9-9067-db05308211e1" />
 
 ## 실행 방법
 ### 1) gitclone 후 .env 환경 생성
